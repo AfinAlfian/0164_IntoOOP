@@ -6,6 +6,9 @@ class Mahasiswa {
         string nama;
         int umur;
         string jurusan;
+        void output() {
+
+        }
 };
 
 int main()
