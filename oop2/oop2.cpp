@@ -2,7 +2,7 @@
 using namespace std;
 
 class bangunDatar {
-
+    private:
 };
 
 int main()
