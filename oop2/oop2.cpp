@@ -24,6 +24,6 @@ class bangunDatar {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    bangunDatar pp;
 }
 
