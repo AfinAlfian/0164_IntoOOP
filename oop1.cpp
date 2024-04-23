@@ -18,6 +18,8 @@ class MataKuliah {
         string kodeMk;
         string namaMk;
         int sks;
+    public:
+
 };
 
 int main()
