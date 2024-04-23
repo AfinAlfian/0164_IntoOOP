@@ -14,6 +14,7 @@ class Mahasiswa {
 };
 
 class MataKuliah {
+    private:
 
 };
 
